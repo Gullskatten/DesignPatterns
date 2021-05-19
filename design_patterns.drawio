@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T18:06:10.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GUommvO28mEtUFjtUZ-C" version="14.6.12" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-19T19:03:13.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NTyLNasKnTfIDxnG07a2" version="14.6.12" type="github" pages="6">
   <diagram id="twZEPwuQxhSnXWAY4kN0" name="Singleton">
     <mxGraphModel dx="1298" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -791,6 +791,22 @@
         </mxCell>
         <mxCell id="ilEq4z59-LQC1ndvmip4-53" value="RegisterView" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="ilEq4z59-LQC1ndvmip4-1">
           <mxGeometry x="370" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ilEq4z59-LQC1ndvmip4-59" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ilEq4z59-LQC1ndvmip4-1" source="ilEq4z59-LQC1ndvmip4-12" target="ilEq4z59-LQC1ndvmip4-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="targetPoint" />
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="390" />
+              <mxPoint x="450" y="350" />
+              <mxPoint x="430" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ilEq4z59-LQC1ndvmip4-60" value="logout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ilEq4z59-LQC1ndvmip4-59">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
